@@ -5,6 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shariff020406" alt="shariff020406" /></a> </p>
 
+- 🔭 I’m currently working on **AI/ML projects, Data Analytics, and Automation solutions**
+
+- 🌱 I’m currently learning **Advanced Machine Learning, Generative AI, and Data Structures & Algorithms.**
+
+- 👯 I’m looking to collaborate on **AI/ML, Data Analytics, and Open Source projects.**
+
+- 🤝 I’m looking for help with **Advanced AI/ML, Generative AI, and building scalable real-world applications.**
+
 - 👨‍💻 All of my projects are available at [https://github.com/Shariff020406](https://github.com/Shariff020406)
 
 - 📫 How to reach me **shariff02042006@gmail.com**
